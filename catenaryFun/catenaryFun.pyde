@@ -63,7 +63,7 @@ def draw():
     fill(255,0,0)
     textSize(18)
     text(str(2*integral(f,a,targ,100)),-100,-300)
-    
+    saveFrame("image.png");
 def f(x,a):
     try:
         return a * cosh(x/float(a))

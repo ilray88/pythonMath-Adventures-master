@@ -69,3 +69,15 @@ def arange(start,stop,step):
         x += step
     return output
 
+def draw():
+    for x in range(width):
+        for y in range(height):
+            z=[(xmin+x*xsecl),
+               (ymin+y*yscl)]
+            col=mandelbrot(z,100)
+            if col==100:
+                fill(0)
+            else:
+                fill(255)
+            rect(x,y,1,1)
+    saveFrame("image.png");
