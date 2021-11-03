@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="508e9511-b2d6-445b-88ea-016e5a782381" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/4.3 用作图法解方程.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.3.1Processing入门.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harmonograph_sliders/slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RotatingTriangles2/slider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sketch_5_2/5.2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第10章用递归制作分形.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第4章用代数变换和存储数.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第5章用几何学变换形状.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第6章 用三角学制造振荡.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第7章复数.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第8章将矩阵用于计算机图形和方程组.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第9章用类构建对象.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/《用Python学数学》.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/《用Python学数学》.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BriainHex.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA1Dimension.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CA_Zoomable.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircleSineWave.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dots.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DragonCurve1_pyde.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmonograph_sliders.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Julia_java.pde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RotatingTriangles2.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SheepAndGrass.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spirograph.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSP070318.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSPBook_March_31.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VortexCircles.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VortexCirclesSineWave.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algebra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arithmetic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrow.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catenaryFun/catenaryFun.pyde" beforeDir="false" afterPath="$PROJECT_DIR$/catenaryFun/catenaryFun.pyde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cellularAutomata.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circleLines.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorGrid.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complex.py" beforeDir="false" afterPath="$PROJECT_DIR$/complex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cycloid.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameOfLife.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geneticQuoteJuly3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometry.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonograph.pyde" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习 4-3：再求一个方程的根.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/练习 4-3：再求一个方程的根.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习答案/练习.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/练习答案/练习.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20O2CePd3kP1f4HHZ1p5zNNYvD3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RotatingTriangles2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0ilraypan\git_jia\《用Python学数学》\RotatingTriangles2" />
+      <recent name="D:\0ilraypan\git_jia\《用Python学数学》\Harmonograph_sliders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0ilraypan\git_jia\《用Python学数学》" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gauss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="《用Python学数学》" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gauss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.gauss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="508e9511-b2d6-445b-88ea-016e5a782381" name="Changes" comment="" />
+      <created>1635901187191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635901187191</updated>
+      <workItem from="1635901189035" duration="1737000" />
+      <workItem from="1635908528039" duration="18212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$gauss.coverage" NAME="gauss Coverage Results" MODIFIED="1635916633622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
